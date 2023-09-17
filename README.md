@@ -1,7 +1,7 @@
 [![MasterHead](https:https://tenor.com/view/programming-gif-25868426)]
 <h1 align="center">Hi 👋, I'm Divya Bhat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1lE07XRArH3No7kUVhBgK8&ust=1695054007317000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICH2bOGsoEDFQAAAAAdAAAAABAD">
 
 - 🌱 I’m currently learning **Rust, Generative AI**
 
